@@ -1,0 +1,61 @@
+[
+  {
+    "id": "bazi-chart-check",
+    "title": "Archived AI BaZi chart check",
+    "urls": {
+      "zh": "https://www.kaucim.ai/bazi/ai-chart-check",
+      "en": "https://www.kaucim.ai/en/bazi/ai-chart-check"
+    },
+    "supports": "An archived comparison of 60 September 2026 model responses to 12 fictional birth inputs, with full responses, reference pillars, JSON, CSV and a reproduction script.",
+    "limits": "The comparison concerns recorded model versions and inputs against Kaucim's archived engine output. It does not measure current model accuracy, all birth-time conventions or interpretation quality."
+  },
+  {
+    "id": "japanese-four-pillars-guide",
+    "title": "Reading a Four Pillars chart in Japanese",
+    "urls": {
+      "ja": "https://www.kaucim.ai/ja/articles/meishiki-no-dashikata"
+    },
+    "supports": "A Japanese guide to how a Four Pillars chart is formed and read, covering the Day Master, elements, relationship labels, hidden stems and timing cycles.",
+    "limits": "This is a cultural and self-reflection guide. Its interpretation does not determine medical, career or relationship decisions. It is a Japanese article, not a translation of the other references in this index."
+  },
+  {
+    "id": "ten-gods-reference",
+    "title": "Ten Gods names and derivation",
+    "urls": {
+      "zh": "https://www.kaucim.ai/articles/bazi-shishen",
+      "en": "https://www.kaucim.ai/en/bazi/ten-gods"
+    },
+    "supports": "A Chinese introduction to the Ten Gods and an English reference with names, the element and polarity derivation rule, and a 10 by 10 lookup table.",
+    "limits": "The Chinese introduction and English reference cover different levels of detail. Relationship labels come from the stems in a chart; their traditional themes do not guarantee life events."
+  },
+  {
+    "id": "wong-tai-sin-reference",
+    "title": "Wong Tai Sin 100-stick reference",
+    "urls": {
+      "zh": "https://www.kaucim.ai/reference/wong-tai-sin-kau-cim",
+      "en": "https://www.kaucim.ai/en/reference/wong-tai-sin-kau-cim"
+    },
+    "supports": "Stick numbers, traditional titles, Chinese verses and grades in the versioned reference dataset. JSON and CSV downloads are linked on the reference page.",
+    "limits": "The dataset's reuse statement applies to the specified reference files. Modern translations and personalised interpretations are outside that dataset. Consult the listed temple source for its current material."
+  },
+  {
+    "id": "methodology",
+    "title": "Calculation and interpretation methods",
+    "urls": {
+      "zh": "https://www.kaucim.ai/methodology",
+      "en": "https://www.kaucim.ai/en/methodology"
+    },
+    "supports": "Kaucim's documented calculation approach, the distinction between chart calculations and AI interpretation, and the limitations of the product.",
+    "limits": "This is the product's own methodology. It does not establish predictive accuracy, independent endorsement or a universal rule across metaphysics schools."
+  },
+  {
+    "id": "ziwei-example",
+    "title": "Zi Wei worked example",
+    "urls": {
+      "zh": "https://www.kaucim.ai/ziwei/sample",
+      "en": "https://www.kaucim.ai/en/ziwei/sample"
+    },
+    "supports": "A worked example of the product's chart and explanation, using the fictional birth details stated on the page.",
+    "limits": "The example illustrates output and calculation choices. It is not a real customer outcome or evidence that a prediction came true."
+  }
+]
