@@ -73,3 +73,11 @@ It verifies current API responses and does not create a purchase or private repo
 Public contract and reference index: https://www.kaucim.ai/developers
 
 SDK documentation: https://github.com/modelcontextprotocol/typescript-sdk/blob/main/packages/server/README.md
+
+## License
+
+The adapter code and documentation in this repository are licensed under the
+[MIT License](LICENSE). Content retrieved from Kaucim's APIs and website retains
+its existing usage terms, including each dataset's stated reuse scope. This
+license does not cover retrieved articles, translations, personalised readings
+or third-party material. Dependencies retain their own licenses.
